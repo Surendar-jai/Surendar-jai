@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surendar Jaisankar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me ...
 
